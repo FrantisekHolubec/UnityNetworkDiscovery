@@ -1,0 +1,23 @@
+{
+    "name": "UnityNetworkDiscovery",
+    "rootNamespace": "UniLabs.NetworkDiscovery",
+    "references": [
+        "PurrNet.Runtime",
+        "FishNet.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "dev.purrnet.purrnet",
+            "expression": "",
+            "define": "PURRNET"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+{
+  "name": "com.unilabs.unity-network-discovery",
+  "version": "0.1.0",
+  "displayName": "Unity Network Discovery",
+  "description": "UDP broadcast LAN server discovery for Unity. Networking-library-agnostic core with optional bindings for PurrNet and FishNet. Drop a binding component, point your discovery at it, and you have a server list.",
+  "unity": "2021.3",
+  "author": {
+    "name": "UniLabs",
+    "url": "https://github.com/FrantisekHolubec"
+  },
+  "license": "MIT",
+  "keywords": [
+    "networking",
+    "lan",
+    "discovery",
+    "udp",
+    "broadcast",
+    "purrnet",
+    "fishnet",
+    "multiplayer"
+  ]
+}
